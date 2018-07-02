@@ -1,0 +1,7 @@
+public class A4
+{
+    void fA()
+	{
+	    System.out.println("I am A.");
+	}
+}

@@ -1,0 +1,17 @@
+public class Huanying
+{
+    public static void main(String args[])
+   {
+         【代码1】  //命令行窗口输出“你好，很高兴学习Java.”
+          A1 a =new A1();
+          a.fA();
+    }
+}
+
+class A1
+{
+    void fA()
+    {
+          【代码2】  //命令行窗口输出“We are students.”
+     }
+}
