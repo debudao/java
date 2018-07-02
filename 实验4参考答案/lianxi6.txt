@@ -1,0 +1,9 @@
+The report of Student 孙杨 1008
+courseNo:IT1005  courseName:程序设计基础  tHour:40  Score:80.0
+courseNo:IT1007  courseName:机器学习  tHour:40  Score:90.0
+学分积：3.4285714285714284
+The report of Student 郑丽 1002
+courseNo:IT1001  courseName:编译原理  tHour:60  Score:80.0
+courseNo:IT1002  courseName:操作系统  tHour:60  Score:90.0
+courseNo:IT1003  courseName:数据结构  tHour:40  Score:96.0
+学分积：3.625
